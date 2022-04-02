@@ -34,8 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Gif2](https://user-images.githubusercontent.com/97994935/161365778-226ff312-281a-4b05-a6e0-02082998f867.gif)
-
+![MezGif](https://user-images.githubusercontent.com/83977892/161367298-a8724d30-c6ec-4cea-b60c-d26c0b6a4670.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -50,7 +49,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2022] [Farhat Chowdhury]
+    Copyright [2022] [Mezbahuddin Prottoy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
